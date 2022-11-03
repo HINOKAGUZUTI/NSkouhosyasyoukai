@@ -64,6 +64,7 @@ p{
 .profile{
   display: flex;
   margin: 20px;
+  margin-top: 40px;
 }
 
 .icon{
@@ -73,6 +74,12 @@ p{
 
 .text{
   padding-left: 20px;
+  width: 380px;
+}
+.name{
+  color: #161b22;
+  line-height: 35px;
+  margin-left: 0px;
 }
 
 .kouyaku{
