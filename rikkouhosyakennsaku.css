@@ -61,6 +61,13 @@ p{
   line-height: 80px;
   text-align:justify;
 }
+.danntaisyoukai{
+  background-color: rgb(246, 249, 249);
+  font-size: 23px;
+  padding: 20px;
+  line-height: 50px;
+  text-align:justify;
+}
 .colorblack{
   color: #4e6077;
 }
