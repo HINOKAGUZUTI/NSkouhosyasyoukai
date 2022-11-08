@@ -54,8 +54,25 @@ p{
   padding: 20px;
   text-align: center;
 }
+.sagasu_2{
+  background-color: rgb(246, 249, 249);
+  font-size: 40px;
+  padding: 20px;
+  line-height: 80px;
+  text-align:justify;
+}
 .colorblack{
   color: #4e6077;
+}
+.colorblack_2{
+  color: #4e6077;
+  padding-left: 7%;
+}
+
+.colorblack_2s{
+  color: #4e6077;
+  padding-left: 7%;
+  font-size: 30px;
 }
 
 .itirann{
